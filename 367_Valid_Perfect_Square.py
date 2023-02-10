@@ -1,4 +1,4 @@
-#Finding perfect square using binary search method
+#Finding valid perfect square using binary search method
 
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
